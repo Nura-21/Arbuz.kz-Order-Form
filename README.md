@@ -33,11 +33,13 @@
 ## About The Project
 
 <div align="center">
-  <img width="70%" src="public/screenshot1.png" style="border: 4px solid #e54241;"></img>
-  <img width="21%" src="public/i1.png" style="border: 4px solid #e54241;"></img>
+<h5>Home pages</h3>
+  <img width="70%" src="public/screenshot1.png"></img>
+  <img width="21%" src="public/i1.png"></img>
 </div>
 
-<div align="center" style="border: 4px solid #19ab4b;">
+<div align="center">
+<h5>Full size</h3>
     <div align="center">
         <img src="public/screenshot2.png" alt="Logo" width="48%">
         <img src="public/screenshot3.png" alt="Logo" width="48%">
@@ -48,13 +50,15 @@
     </div>
 </div>
 
-<div align="center" style="border: 4px solid #fad24e;">
+<div align="center" >
+<h5>Mobile</h3>
     <div align="center">
         <img src="public/i2.png" alt="Logo" width="32%">
         <img src="public/i3.png" alt="Logo" width="32%">
         <img src="public/i4.png" alt="Logo" width="32%">
     </div>
 </div>
+<br>
 
 My internship test to Arbuz.kz.
 I was very happy when they said that I should write to Vue. So I picked 3.x version of Vue. Since there is a very convenient COMPOSITION API. And I tried my best. One of the problems was that it wasn't allowed to use UI kits.
