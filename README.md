@@ -33,11 +33,11 @@
 ## About The Project
 
 <div align="center">
-  <img width="70%" src="public/screenshot1.png" style="border: 4px dotted #e54241;"></img>
-  <img width="21%" src="public/i1.png" style="border: 4px dotted #e54241;"></img>
+  <img width="70%" src="public/screenshot1.png" style="border: 4px solid #e54241;"></img>
+  <img width="21%" src="public/i1.png" style="border: 4px solid #e54241;"></img>
 </div>
 
-<div align="center" style="border: 4px dotted #19ab4b;">
+<div align="center" style="border: 4px solid #19ab4b;">
     <div align="center">
         <img src="public/screenshot2.png" alt="Logo" width="48%">
         <img src="public/screenshot3.png" alt="Logo" width="48%">
@@ -48,7 +48,7 @@
     </div>
 </div>
 
-<div align="center" style="border: 4px dotted #fad24e;">
+<div align="center" style="border: 4px solid #fad24e;">
     <div align="center">
         <img src="public/i2.png" alt="Logo" width="32%">
         <img src="public/i3.png" alt="Logo" width="32%">
